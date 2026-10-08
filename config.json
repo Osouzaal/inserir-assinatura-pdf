@@ -1,0 +1,15 @@
+{
+  "pasta_pdfs": "C:\\Users\\Micro\\Documents\\LAUDOS PARA ASSINAR",
+  "pasta_saida": "C:\\Users\\Micro\\Documents\\LAUDOS PRONTOS PRO SERVIDOR",
+  "imagem_png": "C:\\Users\\Micro\\Documents\\SCRIPT PARA ASSINAR\\nova versao\\assinatura.png",
+  "varrer_subpastas": false,
+  "largura_pt": 150,
+  "x_pt": 74,
+  "y_pt": 96,
+  "pagina": 1,
+  "processar_pdfs_assinados": false,
+  "data_x_pt": 225,
+  "data_y_pt": 96,
+  "data_tamanho_pt": 5.5,
+  "distancia_nome_imagem_pt": 15
+}
